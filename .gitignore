@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite3
+.env
+.env.local
+.DS_Store
+data/
+node_modules/
+dist/
+._*
+.Spotlight-V100
+.Trashes
